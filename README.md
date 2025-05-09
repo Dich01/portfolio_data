@@ -8,12 +8,12 @@ Cada proyecto está enfocado en generar valor, comunicar resultados de forma cla
 
 | Proyecto                        | Descripción                                                                 | Google Colab |
 |--------------------------------|-----------------------------------------------------------------------------|--------------|
-| Análisis de Producción Simulada | Dashboard y análisis de datos de una planta ficticia                       | 🔗 Próximamente |
+| Análisis de Producción Simulada | Análisis de datos de una planta de producción industrial                   | 🔗 (https://colab.research.google.com/drive/1RPbONx10-G5MbQBjkdpjGTzvUrj-3iBv#scrollTo=TKwIXIZtMdhv) |
 | Predicción de Demanda           | Modelo simple de predicción para optimizar logística o producción          | 🔗 Próximamente |
-| Dashboard de Costos             | Visualización interactiva de KPIs de costos y márgenes por unidad         | 🔗 Próximamente |
+| Dashboard de Costos             | Visualización interactiva de KPIs de costos y márgenes por unidad          | 🔗 Próximamente |
 
 ---
 
 🧪 Cada notebook está desarrollada en Google Colab, con foco en reproducibilidad, claridad y storytelling de datos.
 
-📫 Contacto: diegocheloni [at] gmail.com | [LinkedIn](https://linkedin.com/in/tuusuario)
+📫 Contacto: diegocheloni@gmail.com | [LinkedIn](https://linkedin.com/in/diegocheloni)
