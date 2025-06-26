@@ -11,7 +11,7 @@ Cada proyecto está enfocado en generar valor, comunicar resultados de forma cla
 | Análisis de Planta de Producción | Análisis de datos de una planta de producción industrial                   | 🔗 [Análisis](https://colab.research.google.com/drive/1RPbONx10-G5MbQBjkdpjGTzvUrj-3iBv?usp=drive_link) |
 |                                  | Ciencia de datos aplicada a planta de producción industrial                | 🔗 [Modelos](https://colab.research.google.com/drive/186IKwWqMGA7pCbReH6u5HnjaKk7YgmZO?usp=drive_link) | 
 | IA para Análisis y Reportes      | Crear ánalisis y reportes de ciencia de datos de notebooks y PDF con IA    | 🔗 [Reportes con IA](https://colab.research.google.com/drive/1Qy9Yn6_V09p53u6SXhCgwyF9G96YBB8U?usp=drive_link) | 
-
+| Prompt Engineering aplicado a IA | Sistema modular que diseña prompts y consulta un LLM adaptando el tono y alcance al rol del asistente. | 🔗 [Asistentes IA](https://colab.research.google.com/drive/1carwlZ8U0qAunazqu0E4T0MM6Q0ur73W?usp=sharing) | 
 
 ---
 
