@@ -1,8 +1,6 @@
-# 🧠 Portfolio de Proyectos de Datos - Diego Cheloni
+# >> Portfolio de Proyectos de análisis, ciencia de datos e inteligencia artificial - Diego Cheloni
 
-¡Hola! Este portfolio contiene proyectos diseñados para resolver desafíos reales mediante el análisis, visualización y modelado de datos. 
-
-Cada proyecto está enfocado en generar valor, comunicar resultados de forma clara y automatizar procesos de toma de decisiones.
+¡Hello World! Este portfolio contiene proyectos diseñados para resolver desafíos mediante el análisis, visualización, modelado de datos e inteligencia artidicial. Cada proyecto está enfocado en demostrar capacidades técnicas así como creativas con el fin de generar valor.
 
 ## 📁 Proyectos
 
@@ -10,13 +8,14 @@ Cada proyecto está enfocado en generar valor, comunicar resultados de forma cla
 |--------------------------------|-----------------------------------------------------------------------------|--------------|
 | Análisis de Planta de Producción | Análisis de datos de una planta de producción industrial                   | 🔗 [Análisis](https://colab.research.google.com/drive/1RPbONx10-G5MbQBjkdpjGTzvUrj-3iBv?usp=drive_link) |
 |                                  | Ciencia de datos aplicada a planta de producción industrial                | 🔗 [Modelos](https://colab.research.google.com/drive/186IKwWqMGA7pCbReH6u5HnjaKk7YgmZO?usp=drive_link) | 
-| IA para Análisis y Reportes      | Crear ánalisis y reportes de ciencia de datos de notebooks y PDF con IA    | 🔗 [Reportes con IA](https://colab.research.google.com/drive/1Qy9Yn6_V09p53u6SXhCgwyF9G96YBB8U?usp=drive_link) | 
+| IA para Análisis y Reportes      | Crea ánalisis y reportes para científicos de datos en notebooks y PDF's con IA    | 🔗 [Reportes con IA](https://colab.research.google.com/drive/1Qy9Yn6_V09p53u6SXhCgwyF9G96YBB8U?usp=drive_link) | 
 | Prompt Engineering aplicado a asistentes de IA | Sistema modular que diseña prompts y consulta un LLM adaptando el tono y alcance al rol del asistente. | 🔗 [Asistentes IA](https://colab.research.google.com/drive/1carwlZ8U0qAunazqu0E4T0MM6Q0ur73W?usp=sharing) | 
-
+| Investigación | Codificador-Decodificador de Parámetros Ultra-Esparsos (CDPUE). Nuevo método de compresión para los pesos de una red neuronal buscando una reducción masiva del tamaño del modelo. El prototipo busca demostrar que un modelo entrenado puede ser "descomprimido" y ejecutado con un uso de memoria drásticamente menor.  | 🔗 [AI Research](https://colab.research.google.com/drive/1TsRjBJjCHLjSD_FHb0KE2lLJ_guj7CI7?usp=sharing) |
 ---
 
-🧪 Cada notebook está desarrollada en Google Colab, con foco en reproducibilidad, claridad y storytelling de datos.
 
-📫 Contacto: diegocheloni@gmail.com | [LinkedIn](https://linkedin.com/in/diegocheloni)
+🧪 Cada notebook está desarrollada en Google Colab, con foco en reproducibilidad, claridad, storytelling. #DATOS #CIENCIA #IA #TECNOLOGÍA
+
+📫 Contacto: diegocheloni@gmail.com 
 
 
